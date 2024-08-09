@@ -1,0 +1,17 @@
+[
+  {
+    "nom": {
+      "userId": "user123",
+      "action": "modification",
+      "timestamp": "2023-11-22T10:35:20Z",
+      "targetId": "candidature456",
+      "oldValue": {
+        "etat": "En attente"
+      },
+      "newValue": {
+        "etat": "Approuvée"
+      },
+      "reason": "Tous les documents fournis"
+    }
+  }
+]
